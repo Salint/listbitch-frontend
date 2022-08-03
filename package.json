@@ -1,0 +1,29 @@
+{
+  "name": "listbitch-frontend",
+  "version": "0.1.0",
+  "description": "Front-end for listbit.ch",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salint/listbitch-frontend.git"
+  },
+  "keywords": [
+    "listbitch"
+  ],
+  "author": "Salint",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Salint/listbitch-frontend/issues"
+  },
+  "homepage": "https://github.com/Salint/listbitch-frontend#readme",
+  "dependencies": {
+    "next": "^12.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
